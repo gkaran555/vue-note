@@ -1,5 +1,6 @@
 # vue-note
 
-cd into project
-npm install
-npm run serve
+clone,
+cd into project,
+npm install,
+npm run serve,
